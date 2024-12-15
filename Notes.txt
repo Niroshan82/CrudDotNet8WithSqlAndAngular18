@@ -1,0 +1,4 @@
+﻿Resources
+https://www.c-sharpcorner.com/article/beginners-guide-to-crud-operations-in-net-core-8-web-api/
+https://youtu.be/6YIRKBsRWVI?t=1305
+<InvariantGlobalization>false</InvariantGlobalization>
